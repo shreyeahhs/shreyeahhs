@@ -53,7 +53,8 @@
 
 <p align="center">
   <a href="https://github.com/shreyeahhs">
-    <img alt="Shreyas Gowda :: GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=shreyeahhs&show_icons=true&theme=radical" width="400px"/>
+    <img alt="Shreyas Gowda :: GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=shreyeahhs&show_icons=true&theme=radical" width="400px"/>    
+    <br>
     <img alt="Shreyas Gowda :: Streak Stats" src="https://github-readme-stats-fast.vercel.app/api/streak?username=shreyeahhs&theme=radical" width="400px"/>
   </a>
 </p>
